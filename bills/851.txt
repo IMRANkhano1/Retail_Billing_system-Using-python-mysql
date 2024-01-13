@@ -1,0 +1,27 @@
+		**Welcome Customer**
+
+ Customer Name         : imran
+
+ Customer Phone Number : 9878676545
+
+ Bill Number           : 851
+
+ ========================================================== 
+  Product			Quantity			Price
+ ========================================================== 
+
+ Bath Soap  			01			20 Rs
+ Face Cream 			01			120 Rs
+ Face Wash  			01			140 Rs
+ Sugar      			01			46 Rs
+ Tea        			01			165 Rs
+ Dew        			01			50 Rs
+ Frooti     			01			99 Rs
+
+ ---------------------------------------------------------- 
+ Cosmetic Tax 				33.6 Rs
+ Grocery Tax 				10.55 Rs
+ Cold Drinks Tax 				11.92 Rs
+
+ Total Bill 				696.0699999999999
+ ---------------------------------------------------------- 
